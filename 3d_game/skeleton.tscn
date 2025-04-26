@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bxi1s765ghhpu"]
+
+[node name="Skeleton" type="Node3D"]
+
+[node name="skeleton_mage" parent="."]
+_import_path = NodePath("")
+unique_name_in_owner = false
+process_mode = 0
+process_priority = 0
+process_physics_priority = 0
+process_thread_group = 0
+physics_interpolation_mode = 0
+auto_translate_mode = 0
+editor_description = ""
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0354144, 0, -0.263174)
+script = null
